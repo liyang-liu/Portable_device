@@ -6,9 +6,9 @@ The project has been successfully attempted by the 2017-Spring team (Mobitronic)
 In particular, Mobitronic has envestigated on the subject thoroughly and explored both pneumatic concept and  mechanical concept. A prototype pneumatic demo was made with an [inflatable matress](https://drive.google.com/file/d/0B8edSPbUCKdPTHlibjlWQjhMN2M). For meachnical design, a [scissor jack stool drawing](https//github.com/liyang-liu/Portable_device/src/2017_Autumn_Mobitronic/scissor_jack_concept.mp4) is developed with detailed force/pressure calculation.
 The UP Engineeirng team has manufactured a [portable airbag](https://youtu.be/5JIshlNcmgY).
 
-<a href="https://drive.google.com/file/d/0B8edSPbUCKdPTHlibjlWQjhMN2M" target="_blank"><img src="https//github.com/liyang-liu/Portable_device/blob/master/2017_Autumn_Mobitronic/inflatable_matress.jpg" 
+<a href="https://drive.google.com/file/d/0B8edSPbUCKdPTHlibjlWQjhMN2M" target="_blank"><img src="https://raw.githubusercontent.com/liyang-liu/Portable_device/master/2017_Autumn_Mobitronic/inflatable_matress.jpg" 
 alt="inflatable_matress" width="240" height="180" border="10" /></a>
-<a href="https//github.com/liyang-liu/Portable_device/blob/master/2017_Autumn_Mobitronic/scissor_jack_concept.mp4" target="_blank"><img src="https//github.com/liyang-liu/Portable_device/2017_Autumn_Mobitronic/Scissor-jack_stool.jpg" 
+<a href="https//github.com/liyang-liu/Portable_device/blob/master/2017_Autumn_Mobitronic/scissor_jack_concept.mp4" target="_blank"><img src="https://raw.githubusercontent.com/liyang-liu/Portable_device/master/2017_Autumn_Mobitronic/Scissor-jack_stool.jpg" 
 alt="scissor-jack" width="240" height="180" border="10" /></a>
 <a href="https://youtu.be/5JIshlNcmgY" target="_blank"><img src="2017_Spring_UP-Engineering/Air-bag.jpg" 
 alt="portable_airbag" width="240" height="180" border="10" /></a>
