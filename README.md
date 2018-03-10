@@ -8,7 +8,7 @@ The UP Engineeirng team has manufactured a [portable airbag](https://youtu.be/5J
 
 <a href="https://drive.google.com/file/d/0B8edSPbUCKdPTHlibjlWQjhMN2M" target="_blank"><img src="https://raw.githubusercontent.com/liyang-liu/Portable_device/master/2017_Autumn_Mobitronic/inflatable_matress.jpg" 
 alt="inflatable_matress" width="240" height="180" border="10" /></a>
-<a href="https//github.com/liyang-liu/Portable_device/blob/master/2017_Autumn_Mobitronic/scissor_jack_concept.mp4" target="_blank"><img src="https://raw.githubusercontent.com/liyang-liu/Portable_device/master/2017_Autumn_Mobitronic/Scissor-jack_stool.jpg" 
+<a href="https://drive.google.com/open?id=1SR-AuNh29Btc_Gv70GUpOY6OO0yqntr1" target="_blank"><img src="https://raw.githubusercontent.com/liyang-liu/Portable_device/master/2017_Autumn_Mobitronic/Scissor-jack_stool.jpg" 
 alt="scissor-jack" width="240" height="180" border="10" /></a>
 <a href="https://youtu.be/5JIshlNcmgY" target="_blank"><img src="2017_Spring_UP-Engineering/Air-bag.jpg" 
 alt="portable_airbag" width="240" height="180" border="10" /></a>
